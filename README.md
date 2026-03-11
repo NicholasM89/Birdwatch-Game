@@ -8,7 +8,7 @@ XP and leveling system
 Seed inventory system
 3D open environment
 Play in Browser
-(we'll add the link here once GitHub Pages is live)
+https://nicholasm89.github.io/Birdwatch-Game/
 
 Tools Used
 Unity 6.3
